@@ -1,0 +1,104 @@
+
+.booking{
+  
+    justify-content: center;
+   
+
+
+    font-size: large;
+  
+   height: 100000px;
+   width: 100%;
+
+
+  }
+  .booking> button{
+      background-color: #f0c14b;
+  
+  
+  }
+  .box{
+    margin-bottom: 30px;
+    margin-left: 0px;
+  }
+  .align{
+    font-weight: bold;
+    margin-left: 20px;
+    font-style:inherit;
+    margin-right: 20px;
+  
+  }
+  .align{
+    font-weight: bold;
+    margin-left: 20px;
+    font-style:inherit;
+    margin-right: 20px;
+  
+  }
+  .order{
+    font-weight: bold;
+
+    margin-left: -2px;
+    font-style:inherit;
+    
+  
+
+  }
+  .order2{
+    font-weight: bold;
+
+    margin-left: 9px;
+    font-style:inherit;
+    
+  
+
+  }
+  .order3{
+    font-weight: bold;
+
+    margin-left: 8px;
+    font-style:inherit;
+    
+  
+
+  }
+  .order4{
+    font-weight: bold;
+
+    margin-left: 9px;
+    font-style:inherit;
+    
+  
+
+  }
+  .order5{
+    font-weight: bold;
+
+    margin-left: 23px;
+    font-style:inherit;
+    
+  
+
+  }
+  .order6{
+    font-weight: bold;
+
+    margin-left: 2px;
+    font-style:inherit;
+    margin-right: 23px;
+    
+  
+
+  }
+  .order7{
+    font-weight: bold;
+
+    margin-left: 37px;
+    font-style:inherit;
+    margin-right: 23px;
+    
+  
+
+  }
+ 
+

@@ -1,0 +1,16 @@
+.App {
+    margin: 30px;
+    width: 600px;;
+}
+
+.box{
+    margin: 15px;
+}
+
+.mr10{
+margin-right:10px;
+}
+
+input{
+padding: 5px 10px;
+}

@@ -1,0 +1,17 @@
+.table{
+  justify-content: center;
+  font-weight: bold;
+}
+th{
+  font-style: italic;
+ 
+}
+table{
+  border-style: solid;
+}
+.col-sm-5{
+  margin-top: 20px;
+  justify-content: center;
+  margin-left: 50px;
+
+}
